@@ -1,0 +1,24 @@
+Aula 8 - curso em vídeo - python
+
+Trabalhando com módulos
+
+Dentro da linguagem python para incluir alguma coisa, tem que usar o comando
+
+import
+from----import---
+
+Biblioteca muito utilizada
+math
+
+math ceil:arrendondar um número pra cima
+math floor: arredondar um número pra baixo
+math trunc: eimina um número da virgula pra frente
+math pow: potência
+math sqrt: raiz quadrada
+math factorial: função fatorial de um número
+
+importmath: vai importar todas as funcionalidades desta biblioteca math
+
+se so for utilizar um comando específico:
+from math import sqrt 
+
