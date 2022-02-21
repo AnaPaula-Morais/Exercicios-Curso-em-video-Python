@@ -1,1 +1,37 @@
 Manipulando texto 
+
+Análise
+
+len(frase): para saber qual o comprimento da frase
+
+frase.count('o'): conta quantas vezes aparece um caractere
+
+frase.find('deo'): quantas vezes foi encontrado 'deo'
+
+'curso' in frase: dentro da frase existe a palavra curso (é um operador)
+ 
+Transformação
+
+frase.replace('python', 'android'): onde tiver a palavra python ele vai substituir por android
+
+frase.upper(): o que for maiusculo ele mantém, o que não for ele coloca em maiusculo
+
+frase.lower(): o contrario do upper. Mantém o que é minúsculos e o que não for ele coloca
+
+frase.capitalize(): Vai colocar a string toda em minúsculo menos a primeira letra que fica em maiúscula
+
+frase.title(): vai analisar quantas palavras tem a string, colocando as primeiras letras de cada palavra em maiúsculo
+
+frase.strip(): remove todos os espaços inúteis no início e do final da string
+
+frase.rstrip(): irá remover somente os ultimos espaços
+
+frase.lstrip(): vai remover os primeiros espaços 
+
+
+Divisão
+
+frase.split(): separa as strings
+
+'-'.join(frase)
+
