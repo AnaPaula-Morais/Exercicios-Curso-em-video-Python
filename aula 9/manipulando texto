@@ -6,7 +6,7 @@ len(frase): para saber qual o comprimento da frase
 
 frase.count('o'): conta quantas vezes aparece um caractere
 
-frase.find('deo'): quantas vezes foi encontrado 'deo'
+frase.find('deo'): quantas vezes foi encontrado 'deo'/ Retorna o índice mais baixo em S onde a substring sub é encontrada, de modo que sub esteja contido em S[start:end]. Os argumentos opcionais start e end são interpretados como em notação de fatia. Retorna -1 em caso de falha.
 
 'curso' in frase: dentro da frase existe a palavra curso (é um operador)
  
